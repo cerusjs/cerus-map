@@ -1,0 +1,19 @@
+{
+	"name": "cerus-map",
+	"version": "0.0.1",
+	"description": "The map class for CerusJS.",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/cerusjs/cerus-map.git"
+	},
+	"author": "cerusjs",
+	"bugs": {
+		"url": "https://github.com/cerusjs/cerus-map/issues"
+	},
+	"scripts": {
+		"lint": "eslint lib/"
+	},
+	"homepage": "https://github.com/cerusjs/cerus-map",
+	"dependencies": {}
+}
