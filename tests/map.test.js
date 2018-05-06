@@ -124,7 +124,7 @@ describe("map", function() {
 		});
 	});
 
-	describe("#remove", function() {
+	describe("#list", function() {
 		context("with no items", function() {
 			it("should return []", function() {
 				expect(map().list()).to.deep.equal([]);
